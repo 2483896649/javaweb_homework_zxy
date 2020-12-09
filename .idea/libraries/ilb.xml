@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ilb">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/ilb" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/ilb" recursive="false" />
+  </library>
+</component>

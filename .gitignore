@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/web/node_modules/
+/web/WEB-INF/classes/
